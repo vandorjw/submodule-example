@@ -1,0 +1,3 @@
+[submodule "core-project"]
+	path = core-project
+	url = git@github.com:vandorjw/example-core-project.git
